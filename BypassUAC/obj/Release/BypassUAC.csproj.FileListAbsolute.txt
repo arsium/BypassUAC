@@ -1,0 +1,4 @@
+C:\Users\Arsium\source\repos\BypassUAC\BypassUAC\obj\Release\BypassUAC.csproj.AssemblyReference.cache
+C:\Users\Arsium\source\repos\BypassUAC\BypassUAC\obj\Release\BypassUAC.csproj.CoreCompileInputs.cache
+C:\Users\Arsium\source\repos\BypassUAC\BypassUAC\bin\Release\BypassUAC.exe
+C:\Users\Arsium\source\repos\BypassUAC\BypassUAC\obj\Release\BypassUAC.exe
